@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 // ReSharper disable InconsistentNaming
 #pragma warning disable SA1611
@@ -21,7 +21,7 @@ namespace InsertionSort
         /// </summary>
         public static void RecursiveInsertionSort(this int[] array)
         {
-            // TODO #2. Implement the method using a loop statements.
+            // TODO #2. Implement the method using recursion algorithm.
             throw new NotImplementedException();
         }
     }
