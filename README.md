@@ -7,8 +7,8 @@ The task is to implement insertion sort algorithm using loops and recursion.
 Read more on [insertion sort topic](https://www.google.com/search?q=insertion+sort):
 
 * [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
-* [Сортировка вставками](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0%D0%BC%D0%B8)
 * [Сортировка вставками](https://habr.com/ru/company/otus/blog/510244/)
+* [Visualgo](https://visualgo.net/)
 
 
 ## Get the Project
